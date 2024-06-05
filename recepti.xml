@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recepti>
+    <recept>
+        <naslov>Američke palačinke</naslov>
+        <sastojci>
+            <sastojak>
+                <ime>Jaja</ime>
+                <kolicina>4</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Šećer</ime>
+                <kolicina>4 žlice</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Vanilin šećer</ime>
+                <kolicina>2</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Oštro brašno</ime>
+                <kolicina>600 g</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Mlijeko</ime>
+                <kolicina>720 ml</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Ulje</ime>
+                <kolicina>120 ml</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Prašak za pecivo</ime>
+                <kolicina>1</kolicina>
+            </sastojak>
+        </sastojci>
+        <upute>
+            <korak>Umutiti čvrsto bjelanjke i ostaviti sa strane.</korak>
+            <korak>Žumanjke umutiti sa šećerom i vanilin šećerom, zatim dodati ulje, mlijeko, brašno i prašak za pecivo. Dobro umutiti mikserom. </korak>
+            <korak>Na kraju smijesi dodati prethodno umućene bjelanjke i lagano ih promiješati špatulom.</korak>
+            <korak>Temperatura pečenja mora biti srednja.</korak>
+            <korak>Smijesu sipati na toplu tavu, kada se pojave mjehurići na palačinkama, okrenuti na drugu stranu.</korak>
+        </upute>
+    </recept>
+
+    <recept>
+        <naslov>Hrskavi njoki s rajčicama i mozzarellom</naslov>
+        <sastojci>
+            <sastojak>
+                <ime>Maslinovo ulje</ime>
+                <kolicina>2 žlice</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Njoke od krumpira</ime>
+                <kolicina>500 g</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Maslac</ime>
+                <kolicina>60 g</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Češnjak</ime>
+                <kolicina>4 češnja</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Vegeta Maesto Chilli i sol</ime>
+                <kolicina>Po ukusu</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Vegeta fine blend</ime>
+                <kolicina>2 žličice</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Vegeta Maestro Crni papar mljeveni</ime>
+                <kolicina>Cijela</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Cherry rajčica</ime>
+                <kolicina>400 g</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Vegeta Maestro Bosiljak</ime>
+                <kolicina>Pola žličice</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Mozzarella</ime>
+                <kolicina>200 g</kolicina>
+            </sastojak>
+        </sastojci>
+        <upute>
+            <korak>Rešetku pećnice na koju ćete staviti posudu s njokima stavite najniže ispod grijača. Pećnicu zagrijte na najvišu temperaturu.</korak>
+            <korak>U velikoj tavi zagrijte žlicu maslinova ulja i dodajte pola količine njoka. Pokrijte poklopcem i pecite, dok ne porumene s jedne strane (2 - 4 minute). Izvadite ih u zdjelu, pa postupak ponovite s preostalim njokima i maslinovim uljem.</korak>
+            <korak>Maslac rastopite u tavi, dodajte sitno nasjeckani češnjak, chili i sol, Vegetu Finu blend i crni papar. Smanjite vatru, dodajte rajčice i 3 žlice vode.</korak>
+            <korak>Pirjajte uz povremeno protresanje posude dok rajčice ne omekšaju a tekućina se malo zgusne (4 - 6 minuta). Rajčice stisnite kuhačom da puknu da ubrzate proces! Dodajte pržene njoke i bosiljak, promiješajte i premjestite u vatrostalnu posudu.</korak>
+            <korak>Na vrh stavite na ploške narezanu mozzarellu i lagano pokapajte maslinovim uljem. Pecite u pećnici dok se sir ne otopi i ne porumeni (2 - 4 minute).</korak>
+        </upute>
+    </recept>
+
+    <recept>
+        <naslov>Zapečena tjestenina s lososom</naslov>
+        <sastojci>
+            <sastojak>
+                <ime>Fant zapečena tjestenina sa šunkom i sirom</ime>
+                <kolicina>1</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Vrhnje za kuhanje</ime>
+                <kolicina>200 ml</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Zlatno polje Fusilli</ime>
+                <kolicina>250 g</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Filet lososa</ime>
+                <kolicina>300 g</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Maslinovo ulje</ime>
+                <kolicina>4 žličice</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Tikvice</ime>
+                <kolicina>150 g</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Ribani sir</ime>
+                <kolicina>50 g</kolicina>
+            </sastojak>
+        </sastojci>
+        <upute>
+            <korak>Sadržaj vrećice Fanta uspite u 800 ml mlake vode i dodajte vrhnje za kuhanje.</korak>
+            <korak>Zagrijavajte uz lagano miješanje dok umak ne zavri i kuhajte 1 minutu.</korak>
+            <korak>U posudu za pečenje uspite nekuhanu tjesteninu.</korak>
+            <korak>Losos narežite na manje kocke i popecite na 2 žlice zagrijanog maslinova ulja. Na preostalom ulju popecite na kockice narezanu tikvicu.</korak>
+            <korak>Rasporedite losos i tikvice po tjestenini i prelijte pripremljenim umakom. Lagano promiješajte i posipajte naribanim sirom.</korak>
+        </upute>
+    </recept>
+
+    <recept>
+        <naslov>Pileće BBQ quesadille</naslov>
+        <sastojci>
+            <sastojak>
+                <ime>Crveni luk, narezan ba tanke ploške</ime>
+                <kolicina>1 velika glavica</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Crvena paprika, narezana ba tanke ploške</ime>
+                <kolicina>1 velika</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Maslac</ime>
+                <kolicina>3 žlice</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Kuhana/pečena piletina, grubo nasjeckana ili natrgana</ime>
+                <kolicina>300 g</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Vegeta</ime>
+                <kolicina>1 žličica</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Podravka BBQ umak classic</ime>
+                <kolicina>200 ml</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Sok od jedne limete</ime>
+                <kolicina>1</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Velike tortilje</ime>
+                <kolicina>8</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Ribani cheddar</ime>
+                <kolicina>400 g</kolicina>
+            </sastojak>
+        </sastojci>
+        <upute>
+            <korak>U tavi otopite 2 žlice maslaca i pirjajte luk i papriku dok ne omekšaju, a zatim izvadite i ostavite sa strane.</korak>
+            <korak>U drugoj tavi ili malom loncu pomiješajte piletinu, BBQ umak i sok od limete. Zagrijte na laganoj vatri uz povremeno miješanje.</korak>
+            <korak>Lagano premažite maslacem jednu stranu tortilje, a zatim je stavite maslacem prema dolje u veliku tavu na srednje jakoj vatri.</korak>
+            <korak>Na polovicu tortilje brzo dodajte sir, BBQ piletinu, papriku i luk. Presavijte drugu polovicu tako da dobijete polukrug.</korak>
+            <korak>Pecite dok donji dio ne porumeni, a zatim je pažljivo preokrenite. Pecite dok i ta strana ne porumeni, a zatim izvadite iz tave.</korak>
+            <korak>Ponovite s preostalim sastojcima dok ne napravite osam quesadilla.</korak>
+        </upute>
+    </recept>
+
+    <recept>
+        <naslov>Fantazija čokoladni Brownies</naslov>
+        <sastojci>
+            <sastojak>
+                <ime>Tamna čokolada</ime>
+                <kolicina>200 g</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Neslani maslac</ime>
+                <kolicina>250 g</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>100% kakao</ime>
+                <kolicina>80 g</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Brašno</ime>
+                <kolicina>65 g</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Prašak za pecivo</ime>
+                <kolicina>1 žličica</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Jaja</ime>
+                <kolicina>4</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Šećer</ime>
+                <kolicina>360 g</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Suhe višnje</ime>
+                <kolicina>75 g</kolicina>
+            </sastojak>
+            <sastojak>
+                <ime>Orasi/lješnjaci po izboru</ime>
+                <kolicina>50 g</kolicina>
+            </sastojak>
+        </sastojci>
+        <upute>
+            <korak>Uključiti pečnicu da se zagrije na 180 stupnjeva.</korak>
+            <korak>U međuvremenu pripremiti kalup za brownie cca 25 X 25 cm. Obložiti masnim papirom.</korak>
+            <korak>Istopite na pari maslac i čokoladu. Ukloniti sa vatre, te dodati višnje i orahe ako ih koristite. Odlično je i bez dodavanja visanja i oraha.</korak>
+            <korak>U drugoj posudi pomješati kakao, brašno, prašak za pecivo, šečer i pomješati sa prethodno rastopljenom mješavinom maslaca i čokolade. Izmiksati.</korak>
+            <korak>Izmiksati cijela jaja pa dodati smijesi za brownies i miksati do sjanog i glatkog konzistentnog završetka.</korak>
+            <korak>Istresti smijesu u pripremljen kalup pa zagladiti špazulom.</korak>
+            <korak>Peci u prethodno zagrijanoj pečnici na 180 stupnjeva cca najdulje 25 minuta. Nikako duže jer brownies trebaju ostati veoma sočni. Ako odložite u frižider/hladnjak na nekoliko sati, postati će čvršći i lakše će te ih podijeliti u odgovarajuće šnite.</korak>
+        </upute>
+    </recept>
+</recepti>
